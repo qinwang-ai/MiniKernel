@@ -14,7 +14,6 @@ put fruit complete! fruit is 1
 put words complete!
 Father will live one year after anther for ever! AND father enjoy fruit
 
-ß
                     *
                     *
                     *
